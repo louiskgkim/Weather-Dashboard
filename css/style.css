@@ -1,3 +1,55 @@
 /* Global Selectors */
+* {
+  font-family: 'Chivo-Mono';
+}
+
+h1 {
+  text-align: center;
+  color: #f5f5f5;
+}
+
+label {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+ion-icon {
+  color: white;
+}
 
 /* Class Selectors */
+.icons {
+	height: 80px;
+	width: 80px;
+}
+
+.cardTodaysDate {
+	font-size: 20px;
+}
+
+.cardTodaysCityName {
+  font-size: 30px;
+  font-weight: 800;
+}
+.card {
+	margin: 15px;
+  font-size: 16px;
+}
+.card-mb-3 {
+  background-color: #f5f5f5;
+}
+
+.colOne {
+	background-color: #f5f5f5;
+}
+
+.colTwo {
+	background-color: #f5f5f5;
+}
+
+.histBtnRow {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
