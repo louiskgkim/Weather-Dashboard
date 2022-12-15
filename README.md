@@ -26,7 +26,7 @@ To simply use the dashboard you would simply add a city in the search bar and cl
 Open your web browser and enter the following web address to access:
 
 ```
-add link later
+https://louiskgkim.github.io/Weather-Dashboard/
 ```
 
 
